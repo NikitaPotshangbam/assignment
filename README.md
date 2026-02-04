@@ -26,6 +26,8 @@ Programs included
 
 • Factorial of a number
 
+• Patterns
+
 Language used
 
 •C++
